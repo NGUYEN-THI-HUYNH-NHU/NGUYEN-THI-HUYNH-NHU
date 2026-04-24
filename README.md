@@ -23,7 +23,6 @@ I'm a Software Engineering Student at Industrial University of Ho Chi Minh City 
 
 ## 📊 Statistics
 [![Huynh Nhu's github stats](https://github-readme-stats.vercel.app/api?username=NGUYEN-THI-HUYNH-NHU&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYEN-THI-HUYNH-NHU&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with me
 - 📧 Email: huynhnhu.connect@gmail.com
