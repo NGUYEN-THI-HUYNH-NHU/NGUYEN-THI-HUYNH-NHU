@@ -1,16 +1,17 @@
-# 👋 Hello! 
+# 👋 Hello!
 
-I'm a Software Engineering Student at Industrial University of Ho Chi Minh City (IUH). I'm passionate about building robust backend systems and modern, responsive frontend interfaces. I'm always seeking to take ownership of the project and deliver high-quality code.
+I'm a Software Engineering student experienced in multi-platform software projects, specializing in Java for robust desktop systems and Next.js/React for full-stack web applications. I'm passionate about architecting scalable systems and translating complex business requirements into high-performance software solutions.
 
-## 💻 Featured Projects
-[![RailwayTicketManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=NGUYEN-THI-HUYNH-NHU&repo=QuanLyBanVeTauGaSaiGon&theme=dark)](https://github.com/NGUYEN-THI-HUYNH-NHU/QuanLyBanVeTauGaSaiGon) </br>
-*A Comprehensive Railway Ticket Management Solution for "Ga Sài Gòn". Designed for ticket agents and station managers to optimize sales workflows and operational management. Built with Java Swing and MS SQL Server.*</br>
-[![PizzaPalace-Admin](https://github-readme-stats.vercel.app/api/pin/?username=NGUYEN-THI-HUYNH-NHU&repo=pizzapalace-admin&theme=dark)](https://github.com/NGUYEN-THI-HUYNH-NHU/pizzapalace-admin)</br>
-*The Administrative Control Center & Backend API for the PizzaPalace ecosystem. Built with Next.js, React, and MongoDB to manage inventory, orders, and system-wide data.*</br>
-[![PizzaPalace](https://github-readme-stats.vercel.app/api/pin/?username=NGUYEN-THI-HUYNH-NHU&repo=pizzapalace&theme=dark)](https://github.com/NGUYEN-THI-HUYNH-NHU/pizzapalace)</br>
-*The Customer-Facing Storefront. A high-performance web application built with React and Next.js, providing a seamless pizza ordering experience with real-time updates.*</br>
+## 💫 Featured Projects
+
+| Project                                                                                      | Description                                                                                                                                       | Tech Stack                                                                                                                                                                                            |
+| :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[QuanLyBanVeTauGaSaiGon](https://github.com/NGUYEN-THI-HUYNH-NHU/QuanLyBanVeTauGaSaiGon)** | A Comprehensive Railway Ticket Management Solution for "Ga Sài Gòn". Designed for ticket agents and station managers to optimize sales workflows. | ![](https://img.shields.io/badge/-Java_Swing-orange?style=flat-square) ![](https://img.shields.io/badge/-MS_SQL_Server-blue?style=flat-square)                                                        |
+| **[PizzaPalace-Admin](https://github.com/NGUYEN-THI-HUYNH-NHU/pizzapalace-admin)**           | The Administrative Control Center & Backend API for the PizzaPalace ecosystem to manage inventory, orders, and system-wide data.                  | ![](https://img.shields.io/badge/-Next.js-black?style=flat-square) ![](https://img.shields.io/badge/-React-blue?style=flat-square) ![](https://img.shields.io/badge/-MongoDB-green?style=flat-square) |
+| **[PizzaPalace](https://github.com/NGUYEN-THI-HUYNH-NHU/pizzapalace)**                       | The Customer-Facing Storefront. A high-performance web application providing a seamless pizza ordering experience with real-time updates.         | ![](https://img.shields.io/badge/-Next.js-black?style=flat-square) ![](https://img.shields.io/badge/-React-blue?style=flat-square)                                                                    |
 
 ## 🛠️ Technologies & Tools
+
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
@@ -22,7 +23,9 @@ I'm a Software Engineering Student at Industrial University of Ho Chi Minh City 
 ![](https://img.shields.io/badge/Tool-Tailwind_CSS-informational?style=flat&logo=tailwind-css)
 
 ## 📊 Statistics
-[![Huynh Nhu's github stats](https://github-readme-stats.vercel.app/api?username=NGUYEN-THI-HUYNH-NHU&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Huynh Nhu's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NGUYEN-THI-HUYNH-NHU&theme=dark&count_private=true&show_icons=true)
 
 ## 📫 Connect with me
+
 - 📧 Email: huynhnhu.connect@gmail.com
