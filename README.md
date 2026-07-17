@@ -24,7 +24,7 @@ I'm a Software Engineering student experienced in multi-platform software projec
 
 ## 📊 Statistics
 
-![Huynh Nhu's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NGUYEN-THI-HUYNH-NHU&theme=dark&count_private=true&show_icons=true)
+[![Huynh Nhu's Github stats](https://github-stats-extended.vercel.app/api?username=NGUYEN-THI-HUYNH-NHU&theme=dark&count_private=true&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 ## 📫 Connect with me
 
